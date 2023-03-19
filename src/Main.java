@@ -13,6 +13,7 @@ public class Main {
             bonus = 0;
 
         }
+        System.out.println("Итоговый счет:" + account);
         System.out.println("Бонусов:" + bonus);
 
     }
